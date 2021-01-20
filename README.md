@@ -1,2 +1,2 @@
 # Domain-Specific-Retrieval-System
-Implementing a domain specific search engine to find the song lyrics.
+Implementing a domain specific search engine to rank that top songs that are related to the query.
